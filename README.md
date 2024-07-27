@@ -3,8 +3,8 @@
 
 
 ## Setup
-- npm init
-- git init
+> npm create vite@latest my-project -- --template svelte
+> cd my-project
 
 **edit package.json**
 

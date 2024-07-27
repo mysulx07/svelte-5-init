@@ -15,6 +15,8 @@ cd my-project
  ***install***
  ```
  npm install -D svelte@next tailwindcss postcss autoprefixer
+```
+```
  npx tailwindcss init -p
 ```
 

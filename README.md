@@ -1,8 +1,14 @@
-# Svelte + Vite
+# Svelte + Vite + Tailwind Init
 
-This template should help get you started developing with Svelte in Vite.
 
-## Recommended IDE Setup
+
+## Setup
+- npm init
+- git init
+
+** edit package.json
+- add to devDependecies "@sveltejs/vite-plugin-svelte": "^4.0.0-next.4",
+- 
 
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 

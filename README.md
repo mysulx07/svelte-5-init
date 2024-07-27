@@ -8,6 +8,6 @@
 
 **edit package.json**
 - add to devDependecies
-  -- "@sveltejs/vite-plugin-svelte": "^4.0.0-next.4",
+-- "@sveltejs/vite-plugin-svelte": "^4.0.0-next.4",
 - 
 
